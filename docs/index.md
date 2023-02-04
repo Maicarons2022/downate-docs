@@ -1,23 +1,23 @@
 ---
-title: A static site based on dumi
+title: Downate - best free donate platform
 hero:
-  title: Site
-  description: Downate-doc
+  title: Downate
+  description: Downate 文档(兼临时官网)
   actions:
-    - text: Hello
+    - text: 马上开始
       link: /guide
-    - text: World
-      link: /
+    - text: can can need
+      link: /show
+    - text: Github
+      link: https://github.com/Maicarons2022/downate
 features:
-  - title: Hello
+  - title: 免费 & 0分成
     emoji: 💎
-    description: Put hello description here
-  - title: World
+    description: 钱直接进您钱包,只此一家
+  - title: 自由
     emoji: 🌈
-    description: Put world description here
-  - title: '!'
+    description: 自由创建,自由使用,自由支付
+  - title: '方便'
     emoji: 🚀
-    description: Put ! description here
+    description: 等着,chrome插件/React/Vue组件马上上线
 ---
-
-.
