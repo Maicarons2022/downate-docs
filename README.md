@@ -1,6 +1,4 @@
-# .
-
-A static site base on [dumi](https://d.umijs.org).
+# downate docs
 
 ## Development
 
